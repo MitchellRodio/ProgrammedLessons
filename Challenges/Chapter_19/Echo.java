@@ -23,19 +23,7 @@ public class Echo
 		  
 		  times = times + 1;
 	  }
-	
-	  
-	  
-	  
-	//  while (length <= 3) {
-		 // System.out.println("Yo Moma gay");
-		  
-		//  count = count + 1;
-		  
-	//  }
-	  
-	//  System.out.println("Loop DOne for!!!!");
-	  
+
 	 
 	  
   }
