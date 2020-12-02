@@ -16,7 +16,7 @@ public class SumOfIntegers
     	  System.out.println(num);
     	}
 
-    System.out.println("The square of " + num + " is ");
+    System.out.println("Done!);
     scan.close(); 
   }
 }
