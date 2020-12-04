@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class AddUpAll
+public class Medium
 {
   public static void main ( String[] args ) throws IOException
   {
